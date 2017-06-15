@@ -92,15 +92,8 @@ function create_config( )
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
     info_text = [[》 Nebron V1.0
-
-》https://github.com/NebronTM/bot
-
-》Admins :
-》@HelperTEST ➣ Founder & Developer《
-
-
-》Our channel :
-》@NebronTM《
+		nebronTm  
+		CSG tm
 
 ]],
   }
