@@ -83,7 +83,7 @@ function create_config( )
 	    "fun",
 	},
     sudo_users = {
-   373670309,
+   203850910,
    sudo_id
 },
     admins = {},
