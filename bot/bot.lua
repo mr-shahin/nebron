@@ -80,7 +80,9 @@ function create_config( )
 		"msg-checks",
 		"plugins",
 		"tools",
-	    "fun",
+	        "on_off"
+	         "servers",
+	        "lock_fosh"
 	},
     sudo_users = {
    203850910,
