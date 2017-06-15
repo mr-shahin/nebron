@@ -80,20 +80,25 @@ function create_config( )
 		"msg-checks",
 		"plugins",
 		"tools",
-	        "on_off"
-	         "servers",
-	        "lock_fosh"
+	    "fun",
 	},
     sudo_users = {
-   203850910,
+   373670309,
    sudo_id
 },
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
     info_text = [[》 Nebron V1.0
-		nebronTm  
-		CSG tm
+
+》https://github.com/NebronTM/bot
+
+》Admins :
+》@HelperTEST ➣ Founder & Developer《
+
+
+》Our channel :
+》@NebronTM《
 
 ]],
   }
